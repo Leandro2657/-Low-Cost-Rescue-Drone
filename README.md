@@ -6,13 +6,17 @@ Student-led engineering project documentation and evidence.
 
 Developed from July 2024 to January 2025 as an educational, low-cost rescue-UAV proof of concept.
 
-## Development Stages
+## Development Journey
+
+The project progressed from early experimentation to a working flight prototype:
 
 1. ESP32-based prototype exploration
 2. Arduino + MPU6050 prototype
 3. KK2.1.5-based final prototype
 4. Electrical, motor, control, calibration, and flight testing
-5. School and external demonstrations
+5. School demonstrations and technical communication
+6. Competitions and exhibitions
+7. External demonstration and interview evidence
 
 ## Final Prototype
 
@@ -24,19 +28,40 @@ Developed from July 2024 to January 2025 as an educational, low-cost rescue-UAV 
 - Radio system: FlySky transmitter/receiver
 - Configuration: Quadcopter
 
-## Evidence
+## Repository Organization
 
-Project photographs, diagrams, testing videos, certificates, and the technical portfolio will be organized in this repository.
+The repository is organized around the project's engineering journey and supporting evidence.
 
-### Planned folders
+### 01_Project_Documentation
+Portfolio, system block diagram, project timeline, and core technical documentation.
 
-- `documentation/` — portfolio and technical documents
-- `images/` — project photographs and diagrams
-- `videos/` — testing and demonstration videos
-- `certificates/` — participation and recognition evidence
-- `references/` — supporting technical references
+### 02_Prototype_Development
+Evidence of the ESP32, Arduino + MPU6050, and KK2.1.5 prototype stages.
+
+### 03_Lab_Testing
+Motor/ESC testing, PWM testing, wiring and electrical testing, calibration, and flight tests.
+
+### 04_School_Demonstration
+Drone flight demonstration, explanations to junior students, Physics faculty inspection, and school leadership evidence.
+
+### 05_Competitions_and_Exhibitions
+Innovators Day 2024, Science Expo, and exhibition preparation evidence.
+
+### 06_External_Demonstrations
+Sri Manakula Vinayagar Engineering College (SMVEC) Innovator Day demonstration and interview evidence.
+
+### 07_Video_Evidence
+Links and supporting information for project testing, prototype, and flight videos.
+
+### 08_Certificates_and_Recognition
+Certificates and documented recognition related to the project.
+
+### 09_References
+Technical references and external resources used during development.
 
 ## Video Evidence
+
+The project video evidence includes:
 
 - Drone Wiring and Electrical Connection Testing
 - Drone Motor Full-Throttle Speed Test
@@ -44,4 +69,6 @@ Project photographs, diagrams, testing videos, certificates, and the technical p
 - Arduino + MPU6050 Drone — Flight Test Demonstration
 - KK2.1.5 Final Prototype — Take-Off and Flight Demonstration
 
-Future capabilities such as autonomous navigation, GPS integration, AI systems, and advanced rescue payloads are proposed improvements, not completed features of the prototype.
+## Engineering Scope
+
+This project is presented as an educational engineering prototype and proof of concept. Future capabilities such as autonomous navigation, GPS integration, AI-based systems, and advanced rescue payloads are proposed improvements and were not completed features of the final prototype.
