@@ -33,41 +33,32 @@ The project progressed from early experimentation to a working flight prototype:
 The repository is organized around the project's engineering journey and supporting evidence.
 
 ### 01_Project_Documentation
-Portfolio, system block diagram, project timeline, and core technical documentation.
+Portfolio, system block diagram, project timeline, calculations, BOM, abstracts, and project overview documents.
 
 ### 02_Prototype_Development
 Evidence of the ESP32, Arduino + MPU6050, and KK2.1.5 prototype stages.
 
 ### 03_Lab_Testing
-Motor/ESC testing, PWM testing, wiring and electrical testing, calibration, and flight tests.
+Motor/ESC testing, PWM testing, wiring and electrical testing, calibration, flight tests, and associated video evidence.
 
 ### 04_School_Demonstration
-Drone flight demonstration, explanations to junior students, Physics faculty inspection, and school leadership evidence.
+Drone flight demonstrations, explanations to junior students, Physics faculty inspection, school leadership evidence, and associated video evidence.
 
 ### 05_Competitions_and_Exhibitions
-Innovators Day 2024, Science Expo, and exhibition preparation evidence.
+Innovators Day 2024, Science Expo, exhibition preparation, and associated video evidence.
 
 ### 06_External_Demonstrations
-Sri Manakula Vinayagar Engineering College (SMVEC) Innovator Day demonstration and interview evidence.
+Sri Manakula Vinayagar Engineering College (SMVEC) Innovator Day demonstration, interview evidence, and associated video evidence.
 
-### 07_Video_Evidence
-Links and supporting information for project testing, prototype, and flight videos.
-
-### 08_Certificates_and_Recognition
+### 07_Certificates_and_Recognition
 Certificates and documented recognition related to the project.
 
-### 09_References
+### 08_References
 Technical references and external resources used during development.
 
 ## Video Evidence
 
-The project video evidence includes:
-
-- Drone Wiring and Electrical Connection Testing
-- Drone Motor Full-Throttle Speed Test
-- Drone Motor Speed Testing Using PWM Control
-- Arduino + MPU6050 Drone — Flight Test Demonstration
-- KK2.1.5 Final Prototype — Take-Off and Flight Demonstration
+Videos are stored and documented within the folder corresponding to the activity they support, rather than in a separate video-evidence folder.
 
 ## Engineering Scope
 
